@@ -1,8 +1,6 @@
 # gitlab-webhook-go
 Helpers to deal with GitLab webhooks in Go.
 
-
-
 Adapted GitLab Version: `CE 11.9.8`
 
 ## Example Usage
