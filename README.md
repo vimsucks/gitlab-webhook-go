@@ -5,6 +5,7 @@ Adapted GitLab Version: `CE 11.9.8`
 
 ## Example Usage
 
+
 ```go
 import (
 	"github.com/vimsucks/gitlab-webhook-go/gitlab"
